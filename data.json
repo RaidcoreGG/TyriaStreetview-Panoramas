@@ -357,12 +357,15 @@
 	{
 		"id": "pano_queensdale_shaemoor",
 		"x": 43648.75,
-		"y": 28534.37
+		"y": 28534.37,
+		"rotation": 29.50,
+		"displayName": "Queensdale Shaemoor"
 	},
 	{
 		"id": "pano_queensdale_fields",
 		"x": 43266.04,
-		"y": 28636.49
+		"y": 28636.49,
+		"displayName": "Queensdale fields"
 	},
 	{
 		"id": "pano_queensdale_swamp",
